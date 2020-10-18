@@ -1,0 +1,1 @@
+cask "altair-graphql-client"
